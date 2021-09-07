@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
+gem 'react-bootstrap-rails', '~> 0.30.2'
 
 # React Rails integration
 gem 'react_on_rails', '11.1.4'
