@@ -5,6 +5,8 @@ ruby '2.7.4'
 
 gem 'pg'
 
+gem install 'bundler'
+
 gem 'ransack'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.1'
